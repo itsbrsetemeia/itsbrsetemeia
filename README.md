@@ -80,4 +80,4 @@ Criação de um universo original inspirado em grandes HQs, com:
 🅾  Instagram e Redes Socias: @itsbrsetemeia
 
 # ⚡ 
-“Tenho um sonho.” — Martin Luther King Jr.
+“I have a dream.” — Martin Luther King Jr.
