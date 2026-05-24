@@ -76,9 +76,9 @@ Criação de um universo original inspirado em grandes HQs, com:
 </div>
 
 📧 Email: siqueirathiaguinho2510@gmail.com
-
----
+📞 Telefone: +55 (11) 97855-8999
+🅾  Instagram e Redes Socias: @itsbrsetemeia
 
 # ⚡ Frase
 
-> “Transformando ideias em projetos através da programação.”
+> “Sempre se”
