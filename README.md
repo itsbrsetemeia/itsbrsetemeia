@@ -21,8 +21,9 @@
 
 - 🎓 Estudante do curso de InfoWeb na ETEC
 - 🌐 Desenvolvendo projetos próprios
-- 📚 Estudando inglês e programação
-- ⚡ Criando sites modernos e responsivos
+- 📚 Estudando programação
+- 🗽 Fluente em: Inglês
+- 🏄🏽‍♂️ Criando sites modernos e responsivos
 - 🎨 Interessado em UI/UX e design futurista
 - 🦸 Criador de universos de super-heróis e ficção científica
 
@@ -31,7 +32,7 @@
 # 💼 Projetos em destaque
 
 ## 🌐 Nivox
-Projeto de empresa fictícia focada em tecnologia e inovação.
+Projeto focado em tecnologia e inovação.
 
 🔹 Site moderno  
 🔹 Design futurista  
