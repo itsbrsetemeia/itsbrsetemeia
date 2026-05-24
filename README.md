@@ -79,6 +79,6 @@ Criação de um universo original inspirado em grandes HQs, com:
 📞 Telefone: +55 (11) 97855-8999
 🅾  Instagram e Redes Socias: @itsbrsetemeia
 
-# ⚡ Frase
+# ⚡ 
 
-> “Sempre se”
+“Tenho um sonho.” — Martin Luther King Jr.
