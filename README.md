@@ -80,7 +80,7 @@ Criação de um universo original inspirado em grandes HQs, com:
 
 </div>
 
-📧 Email: seuemail@email.com
+📧 Email: siqueirathiaguinho2510@gmail.com
 
 ---
 
