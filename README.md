@@ -37,12 +37,6 @@ Projeto de empresa fictícia focada em tecnologia e inovação.
 🔹 Design futurista  
 🔹 Desenvolvimento front-end
 
----
-
-## 🍔 Hamburgueria Web
-Sistema e interface de hamburgueria com promoções, localização e menu interativo.
-
----
 
 ## 🦸 Universo de Super-Heróis
 Criação de um universo original inspirado em grandes HQs, com:
