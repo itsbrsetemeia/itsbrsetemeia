@@ -66,7 +66,7 @@ Criação de um universo original inspirado em grandes HQs, com:
 <div align="left">
 
 <a href="https://linkedin.com">
-    <img src="https://skillicons.dev/icons?i=www.linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </div>
