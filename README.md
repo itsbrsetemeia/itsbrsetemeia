@@ -65,12 +65,8 @@ Criação de um universo original inspirado em grandes HQs, com:
 
 <div align="left">
 
-<a href="https://github.com/SEUUSUARIO">
-    <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
 <a href="https://linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=www.linkedin.com/in/itsbrsetemeia" />
 </a>
 
 </div>
