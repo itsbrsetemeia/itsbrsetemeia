@@ -1,4 +1,4 @@
-# Thiago Siqueira Barbosa
+# Thiago S.B
 
 💻 Estudante de Programação  
 🚀 Desenvolvedor Front-End em evolução  
