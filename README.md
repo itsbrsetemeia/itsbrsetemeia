@@ -2,7 +2,7 @@
 
 💻 Estudante de Programação  
 🚀 Desenvolvedor Front-End em evolução  
-🌎 Apaixonado por tecnologia, design e criação de universos fictícios  
+🌎 Apaixonado por tecnologia, design e criação. 
 🎯 Focado em aprender cada vez mais sobre desenvolvimento web e software
 
 ---
@@ -11,7 +11,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,csharp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,java,ai,git,github,docker,vscode,windows" />
 
 </div>
 
@@ -49,31 +49,42 @@ Criação de um universo original inspirado em grandes HQs, com:
 
 ---
 
-# 📊 Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center" width="100%">
+    
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsbrsetemeia&show_icons=true&theme=dark&locale=pt-br" />
+    
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsbrsetemeia&layout=compact&theme=dark" />
+</p>
 
 ---
 
 # 🌎 Redes e Contato
 
-<div align="left">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/itsbrsetemeia">
+<a href="https://www.instagram.com/itsbrsetemeia/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://discordapp.com/users/875491678235017316" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
+<a href="https://x.com/itsbrsetemeia" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://www.linkedin.com/in/itsbrsetemeia/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+    
+<a href="mailto:siqueirathiaguinho2510@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </div>
-
-📧 Email: siqueirathiaguinho2510@gmail.com
-📞 Telefone: +55 (11) 97855-8999
-🅾  Instagram e Redes Socias: @itsbrsetemeia
 
 # ⚡ 
 “I have a dream.” — Martin Luther King Jr.
