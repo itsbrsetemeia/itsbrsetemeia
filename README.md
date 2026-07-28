@@ -3,6 +3,7 @@
 💻 Estudante de Programação  
 🚀 Desenvolvedor Front-End em evolução  
 🌎 Apaixonado por tecnologia, design e criação. 
+
 🎯 Focado em aprender cada vez mais sobre desenvolvimento web e software
 
 ---
