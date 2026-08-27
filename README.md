@@ -12,7 +12,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,java,ai,git,github,docker,vscode,windows" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,java,git,github,docker,vscode,windows" />
 
 </div>
 
